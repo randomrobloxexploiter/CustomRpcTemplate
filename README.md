@@ -20,7 +20,6 @@ Create a custom timer with ii's stupid mod menu via vencord customrpc
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
 ex. [@notmagic](Guns.lol/notmagic) , [rpctemplates](https://guns.lol/rpctemplates)
 
 ## Version History
