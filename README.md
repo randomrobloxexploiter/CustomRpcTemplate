@@ -18,13 +18,6 @@ Create a custom timer with ii's stupid mod menu via vencord customrpc
 * open up the exe select your discord location and download
 * then create your app from the [discord.dev](https://discord.com/developers/applications) then find the application id at the top
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Contributors names and contact info
