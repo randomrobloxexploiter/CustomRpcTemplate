@@ -1,6 +1,4 @@
-# 
-
-Simple overview of use/purpose.
+# RPCTEMPLATES
 
 ## Description
 
